@@ -1,0 +1,9 @@
+package constructor;
+
+public class BasketballPlayerMain {
+
+	BasketballPlayer p1 = new Player("조던");
+
+	p1.getInfo();
+
+}

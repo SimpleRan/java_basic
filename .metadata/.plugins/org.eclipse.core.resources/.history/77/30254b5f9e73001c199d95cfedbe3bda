@@ -1,0 +1,17 @@
+package structure;
+
+public class Car {
+    // 멤버변수
+	// 자동차 모델, 가격, 주인
+	public String model ;
+	public int price;
+	public String owner;
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	// 멤버 메서드
+	//getInfo()로 모델, 가격, 주인에 대해 조회하도록 작성해주세요. 
+	
+}

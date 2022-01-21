@@ -1,0 +1,21 @@
+
+public class ForQ8P118 {
+
+	public static void main(String[] args) {
+			 // 아래와 같은 별을 찍을 수 있도록 중첩 반복문을 사용해 코드를 작성해주세요.
+			 //     *
+			 //    **
+			 //   ***
+			 //  ****
+	     for(int i = 0; i < 4; i ++) {
+	    	 for(int j = 0; j < 3-i; j++) { // 별 왼쪽에 들어갈 띄어쓰기를 3/2/1/0 개 순으로 찍히도록 세팅
+	    	  System.out.print("_");
+	    	 }
+	    	 for (int k =0; k < i+1; k ++)
+	    	 { // 별개수가 늘어나는 for문을 작성해주세요
+	    	 System.out.print("*");
+	    	 }
+	    		 System.out.println();
+	     }
+	}
+}

@@ -1,0 +1,17 @@
+package constructor;
+
+public class BasketballPlayer {
+   // 멤버변수(특성)
+	// 키 hight
+	// 점프력 jumpHeight를 선언해주시고 
+	public int height ;
+	public int JumpHeight ;
+	
+	
+	public BasketballPlayer (int h, int j) {
+		height = h;
+		JumpHeight = j ;
+		
+	}
+	
+}

@@ -1,0 +1,21 @@
+package constructor;
+
+public class BasketballPlayer {
+   // 멤버변수(특성)
+	// 키 hight
+	// 점프력 jumpHeight를 선언해주시고 
+	public int height ;
+	public int JumpHeight ;
+	public String Player;
+	
+	public BasketballPlayer (String o) {
+		height = 188;
+		JumpHeight = 160 ;
+		Player = "조던" ; 
+	}
+		
+		public void getInfo() {
+			System.out.println("선수 : " + Player +
+					", 신장 : " + height + ", 점프력 :" + JumpHeight );
+	}
+}

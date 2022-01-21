@@ -1,0 +1,9 @@
+package overloading;
+
+public class parttimer {
+    // 파트타이머의 정보
+	// 오전여부(afternoon), 시급(pay), rkrpaud(shopName), 본인이름(name)
+	
+	
+	
+}

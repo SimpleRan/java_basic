@@ -1,0 +1,28 @@
+package accessmodifier;
+
+public class Dog { //정의부
+	// 강아지의 정보를 자율적으로 3개 더 부여해주세요.
+	// String name은 고정입니다.
+	public String name; 
+	public int age;
+	public int weight; 
+	
+	
+	private Dog(String n) {
+	name = n;
+	age = 5;
+	weight = 4;
+	}
+	
+	public void eat () {
+		weight += 1;
+System.out.println("체중이" + weight + "증가하였습니다.");
+	}
+	
+	// 생성자로 강아지 정보를 처리하시되
+	// 이름은 무조건 입력받게 해주세요
+	
+	// 수지 정보값이 변경되는 형태의 메서드 하나를 만들어주세요.
+	
+
+}
