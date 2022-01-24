@@ -18,7 +18,6 @@ public class Orc {
 		
 	}
 	
-	
 	// getter/setter도 만들어주세요 
 	 public int getHp() {
 		return hp;
