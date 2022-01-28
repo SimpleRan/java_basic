@@ -6,6 +6,7 @@ public class Main01P276 {
 		StaticTest s1 = new StaticTest();
 		StaticTest s2 = new StaticTest();
 		StaticTest s3 = new StaticTest();
+		
 
 	}
 
