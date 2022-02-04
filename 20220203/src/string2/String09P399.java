@@ -17,7 +17,7 @@ public class String09P399 {
 	    //.equals()를 이용하면 주소값 비교가 아닌
 	    // 해당 주소간 문자열 내용물을 비교해 확인해줍니다.
 	    // b와 a의 내용물을 비교해 주세요.
-	    System.out.println(b.eqauls(a));
+	    System.out.println(b.equals(a));
 	    
 
 	}
