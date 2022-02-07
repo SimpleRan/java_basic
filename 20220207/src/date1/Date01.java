@@ -25,6 +25,7 @@ public class Date01 {
 	    System.out.println(strNow2);
 	    
 	    //now변수에 들어있는 출력양식을 2022년 02월 07일 aa분 bb분 cc초로 변경해서 콘솔에 찍어주세요
+	    // 469페이지에 보면 simpleDateFormat의 문자 템플릿 목록이 있습니다.
 	    SimpleDateFormat sdf2 = new SimpleDateFormat("yyyy년 MM월 dd일 hh시 mm분 ss초, 시간대 : z");
 	    //타임존 z로 표현합니다.
 	    String strNow3 = sdf2.format(now);
