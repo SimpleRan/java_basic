@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="20211229/src"/>
+	<classpathentry kind="src" path="20211230/src"/>
+	<classpathentry kind="src" path="20211231/src"/>
+	<classpathentry kind="src" path="20220103/src"/>
+	<classpathentry kind="src" path="20220104/src"/>
+	<classpathentry kind="src" path="20220105/src"/>
+	<classpathentry kind="src" path="20220106/src"/>
+	<classpathentry kind="src" path="20220107/src"/>
+	<classpathentry kind="src" path="20220110/src"/>
+	<classpathentry kind="src" path="20220111_12/src"/>
+	<classpathentry kind="src" path="20220113/src"/>
+	<classpathentry kind="src" path="20220114/src"/>
+	<classpathentry kind="src" path="20220117/src"/>
+	<classpathentry kind="src" path="20220118/src"/>
+	<classpathentry kind="src" path="20220119/src"/>
+	<classpathentry kind="src" path="20220120/src"/>
+	<classpathentry kind="src" path="20220121_24/src"/>
+	<classpathentry kind="src" path="20220125/src"/>
+	<classpathentry kind="src" path="20220126/src"/>
+	<classpathentry kind="src" path="20220127/src"/>
+	<classpathentry kind="src" path="20220128/src"/>
+	<classpathentry kind="src" path="20220203/src"/>
+	<classpathentry kind="src" path="20220204/src"/>
+	<classpathentry kind="output" path="20211229/bin"/>
+</classpath>
